@@ -1,0 +1,9 @@
+Format: Heat.HOT/1.0
+Type: Application
+FullName: io.murano.apps.linux.IMS
+Name: IMS
+Description: |
+ IMS Clearwater templates.
+Author: 'Openstack, Inc'
+Tags: [Linux, connection]
+Logo: logo.png
